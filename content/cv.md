@@ -80,4 +80,3 @@ Deployed spiking neural networks on the Intel Loihi neuromorphic processor for g
 
 Guohua Liu, **Shupeng Ning**, Wenjia Zhang, Qian Du, and Quan Zhang. “A Microfluidic Chip for Parallel Detection in Dark Field.” Chinese Patent **CN114471753B**, August 2023.
 
-See [Publications](../publications/) for research outputs and [Teaching & Service](../teaching/) for teaching, mentoring, and reviewing experience.
