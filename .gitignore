@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+.DS_Store
+node_modules/
+*.tar.gz
+*.zip
+.openai/
+dist/
+.env
+.env.*

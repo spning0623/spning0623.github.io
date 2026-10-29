@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>{% if key == 'about' %}{{ profile.name }} | Photonics & Integrated Microsystems{% else %}{{ title }} | {{ profile.name }}{% endif %}</title>
+  <meta name="description" content="{{ description }}">
+  <link rel="canonical" href="{{ profile.site_url }}{{ route }}">
+  <meta property="og:title" content="{% if key == 'about' %}{{ profile.name }} | Photonics & Integrated Microsystems{% else %}{{ title }} | {{ profile.name }}{% endif %}">
+  <meta property="og:description" content="{{ description }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ profile.site_url }}{{ route }}">
+  <meta property="og:image" content="{{ profile.site_url }}/assets/images/portrait.jpg">
+  <link rel="icon" type="image/svg+xml" href="{{ base }}assets/images/favicon.svg">
+  <link rel="stylesheet" href="{{ base }}assets/css/academicpages.css">
+  <link rel="stylesheet" href="{{ base }}assets/css/custom.css">
+  <script src="{{ base }}assets/js/theme.js"></script>
+  <script type="application/ld+json">{{ structured_data | safe }}</script>
+</head>
+<body>
+<a class="skip-link" href="#content">Skip to content</a>
+<header class="masthead">
+  <div class="masthead__inner-wrap">
+    <a class="site-name" href="{{ base }}">{{ profile.name }}</a>
+    <button class="menu-toggle" aria-expanded="false" aria-controls="primary-nav">Menu <span aria-hidden="true">☰</span></button>
+    <nav id="primary-nav" aria-label="Main navigation">
+      {% for item in navigation %}<a href="{{ base }}{{ item.path }}" {% if item.key == key %}aria-current="page"{% endif %}>{{ item.label }}</a>{% endfor %}
+    </nav>
+    <button class="theme-toggle" aria-label="Switch to dark theme" title="Switch color theme"><span aria-hidden="true">◐</span></button>
+  </div>
+</header>
+<div id="main">
+  <aside class="sidebar" aria-label="Personal information">
+    <div class="author__avatar"><img src="{{ base }}assets/images/portrait.jpg" alt="Portrait of Shupeng Ning" width="2000" height="2480" fetchpriority="high"></div>
+    <div class="author__content"><h2 class="author__name">{{ profile.name }}</h2><p class="author__bio">{{ profile.title }}<br><span>{{ profile.department }}</span></p></div>
+    <p class="affiliation">{{ profile.affiliation }}</p>
+    <p class="location">{{ icon('location') | safe }}{{ profile.location }}</p>
+    <ul class="profile-links">
+      <li><a href="mailto:{{ profile.email }}">{{ icon('email') | safe }}Email</a></li>
+      <li><a href="{{ profile.scholar }}">{{ icon('scholar') | safe }}Google Scholar</a></li>
+      <li><a href="{{ profile.linkedin }}">{{ icon('linkedin') | safe }}LinkedIn</a></li>
+      <li><a href="{{ base }}assets/files/Shupeng_Ning_CV.pdf">{{ icon('document') | safe }}CV</a></li>
+    </ul>
+    <p class="sidebar-topics">Photonic computing<br>Integrated photonics<br>Multiphysics microsystems</p>
+  </aside>
+  <main class="page" id="content">
+    <div class="page__inner-wrap">
+      <header class="page-heading"><p class="eyebrow">{{ eyebrow }}</p><h1 class="page__title">{{ title }}</h1></header>
+      <div class="page__content">{{ content | safe }}</div>
+    </div>
+  </main>
+</div>
+<footer class="page__footer"><div class="footer-inner"><span>© 2026 {{ profile.name }} · Updated {{ profile.updated }}</span><span>Built with the <a href="https://github.com/academicpages/academicpages.github.io">Academic Pages</a> design.</span></div></footer>
+<script src="{{ base }}assets/js/site.js" defer></script>
+</body>
+</html>

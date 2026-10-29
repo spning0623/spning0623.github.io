@@ -1,0 +1,555 @@
+[
+  {
+    "id": "M1",
+    "category": "preprint",
+    "title": "General-Purpose Photonic Computing Primitive for Contemporary Artificial Intelligence",
+    "authors": [
+      "Shupeng Ning",
+      "Chenghao Feng",
+      "Zhenxiang Xu",
+      "Hanqing Zhu",
+      "David Z. Pan",
+      "Jiaqi Gu",
+      "Ray T. Chen"
+    ],
+    "venue": "arXiv",
+    "year": 2026,
+    "citation": "arXiv:2605.23051, 2026.",
+    "url": "https://arxiv.org/abs/2605.23051"
+  },
+  {
+    "id": "J11",
+    "category": "journal",
+    "title": "Harnessing Photonics for Machine Intelligence",
+    "authors": [
+      "Hanqing Zhu",
+      "Shupeng Ning",
+      "Hongjian Zhou",
+      "Ziang Yin",
+      "Ray T. Chen",
+      "Jiaqi Gu",
+      "David Z. Pan"
+    ],
+    "venue": "IEEE Circuits and Systems Magazine",
+    "year": 2026,
+    "citation": "IEEE Circuits and Systems Magazine 26(3), pp. 46–74, Aug. 2026.",
+    "url": "https://ieeexplore.ieee.org/abstract/document/11644805"
+  },
+  {
+    "id": "J10",
+    "category": "journal",
+    "title": "Hardware-Efficient Photonic Tensor Core: Accelerating Deep Neural Networks with Structured Compression",
+    "authors": [
+      "Shupeng Ning",
+      "Hanqing Zhu",
+      "Chenghao Feng",
+      "Jiaqi Gu",
+      "David Z. Pan",
+      "Ray T. Chen"
+    ],
+    "venue": "Optica",
+    "year": 2025,
+    "citation": "Optica 12(7), pp. 1079–1089, Jul. 2025.",
+    "url": "https://doi.org/10.1364/OPTICA.559604"
+  },
+  {
+    "id": "J9",
+    "category": "journal",
+    "title": "Incubating Advances in Integrated Photonics with Emerging Sensing and Computational Capabilities",
+    "authors": [
+      "Sourabh Jain",
+      "May H. Hlaing",
+      "Kang-Chieh Fan",
+      "Jason Midkiff",
+      "Shupeng Ning",
+      "Chenghao Feng",
+      "Po-Yu Hsiao",
+      "Patrick T. Camp",
+      "Ray T. Chen"
+    ],
+    "venue": "Applied Physics Reviews",
+    "year": 2025,
+    "citation": "Applied Physics Reviews 12(1), Feb. 2025.",
+    "url": "https://doi.org/10.1063/5.0218564"
+  },
+  {
+    "id": "J8",
+    "category": "journal",
+    "title": "Photonic-Electronic Integrated Circuits for High-Performance Computing and AI Accelerators",
+    "authors": [
+      "Shupeng Ning",
+      "Hanqing Zhu",
+      "Chenghao Feng",
+      "Jiaqi Gu",
+      "Zhixing Jiang",
+      "Zhoufeng Ying",
+      "Jason Midkiff",
+      "Sourabh Jain",
+      "May H. Hlaing",
+      "David Z. Pan",
+      "Ray T. Chen"
+    ],
+    "venue": "Journal of Lightwave Technology",
+    "year": 2024,
+    "citation": "Journal of Lightwave Technology 42(22), pp. 7834–7859, 2024.",
+    "url": "https://doi.org/10.1109/JLT.2024.3427716"
+  },
+  {
+    "id": "J7",
+    "category": "journal",
+    "title": "Neural Network Methods for Radiation Detectors and Imaging",
+    "authors": [
+      "Shanny Lin",
+      "Shupeng Ning",
+      "Hanqing Zhu",
+      "Tao Zhou",
+      "Christopher L. Morris",
+      "Steven Clayton",
+      "Mathew J. Cherukara",
+      "Ray T. Chen",
+      "Zhehui Wang"
+    ],
+    "venue": "Frontiers in Physics",
+    "year": 2024,
+    "citation": "Frontiers in Physics 12, p. 1334298, Feb. 2024.",
+    "url": "https://doi.org/10.3389/fphy.2024.1334298"
+  },
+  {
+    "id": "J6",
+    "category": "journal",
+    "title": "Integrated Multi-Operand Optical Neurons for Scalable and Hardware-Efficient Deep Learning",
+    "authors": [
+      "Chenghao Feng",
+      "Jiaqi Gu",
+      "Hanqing Zhu",
+      "Shupeng Ning",
+      "Rongxing Tang",
+      "May Hlaing",
+      "Jason Midkiff",
+      "Sourabh Jain",
+      "David Z. Pan",
+      "Ray T. Chen"
+    ],
+    "venue": "Nanophotonics",
+    "year": 2024,
+    "citation": "Nanophotonics 13(12), pp. 2193–2206, Jan. 2024.",
+    "url": "https://doi.org/10.1515/nanoph-2023-0554"
+  },
+  {
+    "id": "J5",
+    "category": "journal",
+    "title": "Lab-on-a-Chip Optical Biosensor Platform: A Micro-Ring Resonator Integrated with a Near-Infrared Fourier Transform Spectrometer",
+    "authors": [
+      "Kyoung Min Yoo",
+      "Kang-Chieh Fan",
+      "May Hlaing",
+      "Sourabh Jain",
+      "Shupeng Ning",
+      "Yue An",
+      "Ray T. Chen"
+    ],
+    "venue": "Optics Letters",
+    "year": 2023,
+    "citation": "Optics Letters 48(20), pp. 5371–5374, 2023.",
+    "url": "https://doi.org/10.1364/OL.492172"
+  },
+  {
+    "id": "J4",
+    "category": "journal",
+    "title": "A Point-of-Care Biosensor for Rapid Detection and Differentiation of COVID-19 Virus (SARS-CoV-2) and Influenza Virus Using Subwavelength Grating Micro-Ring Resonator",
+    "authors": [
+      "Shupeng Ning",
+      "Hao-Chen Chang",
+      "Kang-Chieh Fan",
+      "Po-Yu Hsiao",
+      "Chenghao Feng",
+      "Devan Shoemaker",
+      "Ray T. Chen"
+    ],
+    "venue": "Applied Physics Reviews",
+    "year": 2023,
+    "citation": "Applied Physics Reviews 10(2), 021410, May 2023.",
+    "url": "https://doi.org/10.1063/5.0146079"
+  },
+  {
+    "id": "J3",
+    "category": "journal",
+    "title": "A Microfluidic Chip with a Serpentine Channel Enabling High-Throughput Cell Separation Using Surface Acoustic Waves",
+    "authors": [
+      "Shupeng Ning",
+      "Shuchang Liu",
+      "Yunjie Xiao",
+      "Guanyu Zhang",
+      "Weiwei Cui",
+      "Mark Reed"
+    ],
+    "venue": "Lab on a Chip",
+    "year": 2021,
+    "citation": "Lab on a Chip 21(23), pp. 4608–4617, Nov. 2021.",
+    "url": "https://doi.org/10.1039/D1LC00840D"
+  },
+  {
+    "id": "J2",
+    "category": "journal",
+    "title": "Programmable and Parallel Trapping of Submicron/Nanoscale Particles Using Acoustic Micro-Pillar Array Chip",
+    "authors": [
+      "Guanyu Zhang",
+      "Weiwei Cui",
+      "Wei Pang",
+      "Shuchang Liu",
+      "Shupeng Ning",
+      "Xingchen Li",
+      "Mark Reed"
+    ],
+    "venue": "Advanced Materials Interfaces",
+    "year": 2021,
+    "citation": "Advanced Materials Interfaces 8(24), p. 2101334, Nov. 2021.",
+    "url": "https://doi.org/10.1002/admi.202101334"
+  },
+  {
+    "id": "J1",
+    "category": "journal",
+    "title": "Ultrasensitive Detection of Lead (II) Ion by Dark-Field Spectroscopy and Glutathione-Modified Gold Nanoparticles",
+    "authors": [
+      "Wenjia Zhang",
+      "Qian Du",
+      "Zheng Dou",
+      "Shupeng Ning",
+      "Qingzhao Wang",
+      "Yuemeng Dong",
+      "Zhao Yue",
+      "Weixiang Ye",
+      "Guohua Liu"
+    ],
+    "venue": "Sensors and Actuators B: Chemical",
+    "year": 2020,
+    "citation": "Sensors and Actuators B: Chemical 321, p. 128548, Oct. 2020.",
+    "url": "https://doi.org/10.1016/j.snb.2020.128548"
+  },
+  {
+    "id": "C18",
+    "category": "conference",
+    "title": "Towards Machine-learning Integrated Optoelectronic Computing Chips for Proton Radiography",
+    "authors": [
+      "Shanny Lin",
+      "Shupeng Ning",
+      "CL Morris",
+      "Gary Saavedra",
+      "Zhaowen Tang",
+      "Zhehui Wang",
+      "Ray T. Chen"
+    ],
+    "venue": "CLEO: Applications and Technology",
+    "year": 2026,
+    "citation": "CLEO: Applications and Technology, JW1–171, May 2026.",
+    "url": "https://opg.optica.org/abstract.cfm?uri=CLEO_AT-2026-JW1.171"
+  },
+  {
+    "id": "C17",
+    "category": "conference",
+    "title": "Dynamic High-Speed Integrated Photonic Tensor Core for Full-Range Transformer Self-Attention",
+    "authors": [
+      "Shupeng Ning",
+      "Hanqing Zhu",
+      "Chenghao Feng",
+      "Zhenxiang Xu",
+      "Jiaqi Gu",
+      "David Z. Pan",
+      "Ray T. Chen"
+    ],
+    "venue": "CLEO: Applications and Technology",
+    "year": 2026,
+    "citation": "CLEO: Applications and Technology, ATU1E–4, May 2026.",
+    "url": "https://opg.optica.org/abstract.cfm?uri=CLEO_AT-2026-ATU1E.4"
+  },
+  {
+    "id": "C16",
+    "category": "conference",
+    "title": "Hardware-Efficient Photonic Tensor Cores Based on Differential Multi-Operand Mach-Zehnder Interferometers",
+    "authors": [
+      "Zhenxiang Xu",
+      "Shupeng Ning",
+      "Chenghao Feng",
+      "Hanqing Zhu",
+      "David Z. Pan",
+      "Jiaqi Gu",
+      "Ray T. Chen"
+    ],
+    "venue": "CLEO: Applications and Technology",
+    "year": 2026,
+    "citation": "CLEO: Applications and Technology, ATU1E–2, May 2026.",
+    "url": "https://opg.optica.org/abstract.cfm?uri=CLEO_AT-2026-ATU1E.2"
+  },
+  {
+    "id": "C15",
+    "category": "conference",
+    "title": "A Dynamically Operated Photonic Tensor Core for Attention Mechanisms in Transformer",
+    "authors": [
+      "Shupeng Ning",
+      "Hanqing Zhu",
+      "Chenghao Feng",
+      "Zhenxiang Xu",
+      "David Z. Pan",
+      "Ray T. Chen"
+    ],
+    "venue": "Optical Interconnects and Packaging 2026",
+    "year": 2026,
+    "citation": "Optical Interconnects and Packaging 2026, PC139030D, Mar. 2026.",
+    "url": "https://doi.org/10.1117/12.3079102"
+  },
+  {
+    "id": "C14",
+    "category": "conference",
+    "title": "ENLighten: Lighten the Transformer, Enable Efficient Optical Acceleration",
+    "authors": [
+      "Hanqing Zhu",
+      "Zhican Zhou",
+      "Shupeng Ning",
+      "Xuhao Wu",
+      "Ray T. Chen",
+      "Yating Wan",
+      "David Z. Pan"
+    ],
+    "venue": "Asia and South Pacific Design Automation Conference (ASP-DAC)",
+    "year": 2026,
+    "citation": "2026 31st Asia and South Pacific Design Automation Conference (ASP-DAC), pp. 405–412, Jan. 2026.",
+    "url": "https://doi.org/10.1109/ASP-DAC66049.2026.11420774"
+  },
+  {
+    "id": "C13",
+    "category": "conference",
+    "title": "Microring-Based Multi-Operand Optical Neurons with On-Chip Trainable Nonlinearity",
+    "authors": [
+      "Shupeng Ning",
+      "Hanqing Zhu",
+      "Ziang Yin",
+      "Chenghao Feng",
+      "Spencer Denton",
+      "David Z. Pan",
+      "Jiaqi Gu",
+      "Ray T. Chen"
+    ],
+    "venue": "CLEO: Applications and Technology",
+    "year": 2025,
+    "citation": "CLEO: Applications and Technology, AA120–1, May 2025.",
+    "url": "https://doi.org/10.1364/CLEO_AT.2025.AA120_1"
+  },
+  {
+    "id": "C12",
+    "category": "conference",
+    "title": "Early Pancreatic Cancer Detection Using Deep Learning and Optical Neural Networks on Integrated Photonic Chips",
+    "authors": [
+      "Chun-Ju Yang",
+      "Hanqing Zhu",
+      "Shupeng Ning",
+      "Jiaqi Gu",
+      "Chenghao Feng",
+      "David Z. Pan",
+      "Ray T. Chen"
+    ],
+    "venue": "CLEO: Applications and Technology",
+    "year": 2025,
+    "citation": "CLEO: Applications and Technology, AA110–5, May 2025.",
+    "url": "https://doi.org/10.1364/CLEO_AT.2025.AA110_5"
+  },
+  {
+    "id": "C11",
+    "category": "conference",
+    "title": "A Compact Optical Neuron Based on Multi-Operand Microring Resonators",
+    "authors": [
+      "Shupeng Ning",
+      "Chenghao Feng",
+      "Jiaqi Gu",
+      "Hanqing Zhu",
+      "Rongxing Tang",
+      "David Z. Pan",
+      "Ray T. Chen"
+    ],
+    "venue": "Optical Interconnects and Packaging 2025",
+    "year": 2025,
+    "citation": "Optical Interconnects and Packaging 2025, PC1337202, Mar. 2025.",
+    "url": "https://doi.org/10.1117/12.3041297"
+  },
+  {
+    "id": "C10",
+    "category": "conference",
+    "title": "PACE: Pacing Operator Learning to Accurate Optical Field Simulation for Complicated Photonic Devices",
+    "authors": [
+      "Hanqing Zhu",
+      "Wenyan Cong",
+      "Guojin Chen",
+      "Shupeng Ning",
+      "Ray T. Chen",
+      "Jiaqi Gu",
+      "David Z. Pan"
+    ],
+    "venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "year": 2024,
+    "citation": "Advances in Neural Information Processing Systems 37 (NeurIPS 2024), pp. 67535–67555, 2024.",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/7cc16e8635e6f27c295355bd214ef8d8-Abstract-Conference.html"
+  },
+  {
+    "id": "C9",
+    "category": "conference",
+    "title": "Realization of a Compact Photoelectric Platform for Optical Convolution Processing",
+    "authors": [
+      "Shupeng Ning",
+      "Hanqing Zhu",
+      "Chenghao Feng",
+      "Christian Uselton",
+      "Jiaqi Gu",
+      "Rongxing Tang",
+      "David Z. Pan",
+      "Ray T. Chen"
+    ],
+    "venue": "CLEO: Science and Innovations",
+    "year": 2024,
+    "citation": "CLEO: Science and Innovations, SM4M–2, May 2024.",
+    "url": "https://doi.org/10.1364/CLEO_SI.2024.SM4M.2"
+  },
+  {
+    "id": "C8",
+    "category": "conference",
+    "title": "Deep Learning Enhanced Early Detection of Pancreatic Cancer Using Integrated Photonic Chip Based Optical Neural Networks",
+    "authors": [
+      "Chun-Ju Yang",
+      "Hanqing Zhu",
+      "Shupeng Ning",
+      "Chenghao Feng",
+      "Jiaqi Gu",
+      "David Z. Pan",
+      "Ray T. Chen"
+    ],
+    "venue": "Conference on Lasers and Electro-Optics (CLEO)",
+    "year": 2024,
+    "citation": "2024 Conference on Lasers and Electro-Optics (CLEO), pp. 1–2, May 2024.",
+    "url": "https://ieeexplore.ieee.org/abstract/document/10729134"
+  },
+  {
+    "id": "C7",
+    "category": "conference",
+    "title": "A Hardware-Efficient Silicon Electronic-Photonic Chip for Optical Structured Neural Networks",
+    "authors": [
+      "Shupeng Ning",
+      "Jiaqi Gu",
+      "Chenghao Feng",
+      "Rongxing Tang",
+      "Hanqing Zhu",
+      "David Z. Pan",
+      "Ray T. Chen"
+    ],
+    "venue": "Optical Interconnects XXIV",
+    "year": 2024,
+    "citation": "Optical Interconnects XXIV, pp. 17–20, Mar. 2024.",
+    "url": "https://doi.org/10.1117/12.3000787"
+  },
+  {
+    "id": "C6",
+    "category": "conference",
+    "title": "Integrated Photonics for Computing and Artificial Intelligence",
+    "authors": [
+      "Chenghao Feng",
+      "Shupeng Ning",
+      "Jiaqi Gu",
+      "Hanqing Zhu",
+      "David Z. Pan",
+      "Ray T. Chen"
+    ],
+    "venue": "IEEE Photonics Society Summer Topicals Meeting Series (SUM)",
+    "year": 2023,
+    "citation": "2023 IEEE Photonics Society Summer Topicals Meeting Series (SUM), pp. 1–2, Jul. 2023.",
+    "url": "https://ieeexplore.ieee.org/document/10224461"
+  },
+  {
+    "id": "C5",
+    "category": "conference",
+    "title": "A Lab-on-a-Chip Sensing Platform Enabling Concurrent Detection Using Subwavelength Grating Micro-Ring Resonator",
+    "authors": [
+      "Shupeng Ning",
+      "Hao-Chen Chang",
+      "Kang-Chieh Fan",
+      "Po-Yu Hsiao",
+      "Ray T. Chen"
+    ],
+    "venue": "CLEO: Applications and Technology",
+    "year": 2023,
+    "citation": "CLEO: Applications and Technology, AW3Q–6, May 2023.",
+    "url": "https://doi.org/10.1364/CLEO_AT.2023.AW3Q.6"
+  },
+  {
+    "id": "C4",
+    "category": "conference",
+    "title": "Silicon Photonic Chip-Based Biosensor for COVID-19 and Flu Detection with High Sensitivity and Specificity",
+    "authors": [
+      "Shupeng Ning",
+      "Hao-Chen Chang",
+      "Kang-Chieh Fan",
+      "May H. Hlaing",
+      "Sourabh Jain",
+      "Jackson Carmichael",
+      "Lauren Head",
+      "Devangshu Goswami",
+      "Sasid Sriwattana",
+      "Hayden Pietsch",
+      "et al."
+    ],
+    "venue": "Ultra-high-definition Imaging Systems VI",
+    "year": 2023,
+    "citation": "Ultra-high-definition imaging systems VI, pp. 26–28, Mar. 2023.",
+    "url": "https://doi.org/10.1117/12.2660407"
+  },
+  {
+    "id": "C3",
+    "category": "conference",
+    "title": "A Point-of-Care Biosensor with Subwavelength Grating Waveguide-Based Micro-Ring Resonator for Detection of COVID-19",
+    "authors": [
+      "Shupeng Ning",
+      "Chao Wang",
+      "Hao-Chen Chang",
+      "Kyoung Min Yoo",
+      "James Fan",
+      "Devan Shoemaker",
+      "Maxwell Nakos",
+      "May H. Hlaing",
+      "Yen-Wen Lu",
+      "Huiping Tian",
+      "et al."
+    ],
+    "venue": "CLEO: Science and Innovations",
+    "year": 2022,
+    "citation": "CLEO: Science and Innovations, JW3B–195, May 2022.",
+    "url": "https://doi.org/10.1364/CLEO_AT.2022.JW3B.195"
+  },
+  {
+    "id": "C2",
+    "category": "conference",
+    "title": "GHz Bulk Acoustic-Wave Resonator Array Actuated Minimized Collector for High-Efficiency E. coli Enrichment",
+    "authors": [
+      "Xingli Xu",
+      "Xingchen Li",
+      "Shupeng Ning",
+      "Weiwei Cui",
+      "Mark A. Reed"
+    ],
+    "venue": "IEEE International Ultrasonics Symposium (IUS)",
+    "year": 2021,
+    "citation": "2021 IEEE International Ultrasonics Symposium (IUS), pp. 1–4, Sep. 2021.",
+    "url": "https://doi.org/10.1109/IUS52206.2021.9593428"
+  },
+  {
+    "id": "C1",
+    "category": "conference",
+    "title": "Parallel Trapping and Controllable Lysis of Cells Using Acoustic Pillar Array Chip",
+    "authors": [
+      "Guanyu Zhang",
+      "Shuchang Liu",
+      "Shupeng Ning",
+      "Weiwei Cui",
+      "Mark Reed"
+    ],
+    "venue": "IEEE International Ultrasonics Symposium (IUS)",
+    "year": 2021,
+    "citation": "2021 IEEE International Ultrasonics Symposium (IUS), pp. 1–3, Sep. 2021.",
+    "url": "https://doi.org/10.1109/IUS52206.2021.9593541"
+  }
+]
