@@ -12,7 +12,7 @@ An English academic website based on the Academic Pages / Minimal Mistakes layou
 - `content/cv.md`: web CV.
 - `assets/images/portrait.jpg`: user-supplied portrait, displayed using CSS only.
 - `assets/images/duet-architecture.png` and `cirptc-chip.jpg`: user-supplied illustrations for the two featured photonic-computing papers.
-- `assets/images/hybrid-photonic-electronic-ai.png`: AI-generated, two-dimensional conceptual schematic for the JLT review, showing electronic control and memory coupled to photonic computing for AI workloads. Created with the built-in image generation tool at the author's request. This is an illustrative overview, not a figure from the paper, fabricated hardware, or an experimental result.
+- `assets/images/peic_review_thumb.svg`: author-supplied SVG illustration for the JLT review, showing a neural network above a photonic tensor core and electronic control and memory. The supplied artwork is preserved unchanged.
 - `assets/files/Shupeng_Ning_CV.pdf`: unchanged copy of the user-provided CV.
 - `assets/css/custom.css`: appearance and mobile layout.
 

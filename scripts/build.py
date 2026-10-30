@@ -48,14 +48,14 @@ def selected(pubs):
     features = {
         'M1': ('duet-architecture.png', 'DUET photonic computing architecture with jointly encoded operands and differential photodetection', 'A general-purpose photonic primitive for signed, dynamic AI workloads.'),
         'J10': ('cirptc-chip.jpg', 'Wire-bonded CirPTC photonic tensor-core chip', 'Embedding structured model compression directly into photonic hardware.'),
-        'J8': ('hybrid-photonic-electronic-ai.png', 'Conceptual schematic of electronic control and memory coupled to photonic computing for AI workloads', 'A review of photonic computing devices, accelerator architectures, and hardware–software co-design.'),
+        'J8': ('peic_review_thumb.svg', 'Photonic-electronic AI accelerator schematic with a neural network, photonic tensor core, and electronic control and memory', 'A review of photonic computing devices, accelerator architectures, and hardware–software co-design.'),
         'J4': ('biosensing.png', 'Integrated microring biosensor and microfluidic platform', 'Multiplexed antigen detection with a subwavelength-grating microring platform.'),
         'J3': ('acoustofluidics.png', 'Serpentine surface-acoustic-wave microfluidic chip', 'Reusing an acoustic field to increase cell-separation throughput in a compact chip.'),
     }
     result = []
     for id_, (image, alt, summary) in features.items():
         p = next(p for p in pubs if p['id'] == id_)
-        image_class = ' class="hybrid-ai-thumbnail"' if id_ == 'J8' else ''
+        image_class = ' class="review-thumbnail"' if id_ == 'J8' else ''
         result.append(f'<article class="selected-paper"><a href="{escape(p["url"], quote=True)}"><img{image_class} src="assets/images/{image}" alt="{alt}" loading="lazy"></a><div><h3><a href="{escape(p["url"], quote=True)}">{escape(p["title"])}</a></h3><p class="paper-venue">{escape(p["venue"])} · {p["year"]}</p><p class="paper-summary">{summary}</p><a class="paper-link" href="{escape(p["url"], quote=True)}">{"Preprint" if p["category"] == "preprint" else "Paper"} ↗</a></div></article>')
     return '\n'.join(result)
 
